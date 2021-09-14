@@ -49,17 +49,19 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 18. [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), ECCV 2020, [[code]](https://github.com/vmurahari3/visdial-bert)
 
-19. [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), ACL 2020, [[code]](https://github.com/taesunwhang/MVAN-VisDial)
+19. [Visual Dialog: Light-weight Transformer for Many Inputs](https://arxiv.org/abs/1911.11390), ECCV 2020, [[code]](https://github.com/davidnvq/visdial)
 
-20. [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), ACL 2020, [[code]](https://github.com/shubhamagarwal92/visdial_conv)
+20. [Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), ACL 2020, [[code]](https://github.com/taesunwhang/MVAN-VisDial)
 
-21. [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020, [[code]](https://github.com/salesforce/VD-BERT)
+21. [History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), ACL 2020, [[code]](https://github.com/shubhamagarwal92/visdial_conv)
 
-22. [GoG: Graph-over-Graph Network for Visual Dialog](https://aclanthology.org/2021.findings-acl.20/), ACL Findings 2021
+22. [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020, [[code]](https://github.com/salesforce/VD-BERT)
 
-23. [Multimodal Incremental Transformer for Visual Dialogue Generation](https://aclanthology.org/2021.findings-acl.38/), ACL Findings 2021
+23. [GoG: Graph-over-Graph Network for Visual Dialog](https://aclanthology.org/2021.findings-acl.20/), ACL Findings 2021
 
-24. [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), EMNLP Findings 2021
+24. [Multimodal Incremental Transformer for Visual Dialogue Generation](https://aclanthology.org/2021.findings-acl.38/), ACL Findings 2021
+
+25. [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), EMNLP Findings 2021
 
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
