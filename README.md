@@ -13,17 +13,17 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 ## Visual Dialog
 ### 2017
-1. [Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017, [[code]](https://github.com/batra-mlp-lab/visdial)
+[Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017, [[code]](https://github.com/batra-mlp-lab/visdial)
 
 ## GuessWhat
-1. [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://guesswhat.ai)
+[GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
 
 ## GuessWhich
-1. [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585), ICCV 2017, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585), ICCV 2017, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
 
 # Video-based Multi-modal Dialog
 
-1. [Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), AAAI 2020, [[code]](https://github.com/ictnlp/DSTC8-AVSD)
+[Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), AAAI 2020, [[code]](https://github.com/ictnlp/DSTC8-AVSD)
 
 
 
