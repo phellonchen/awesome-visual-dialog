@@ -12,6 +12,7 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 # Image-based Multi-modal Dialog
 
 ## Visual Dialog
+### 2017
 1. [Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017, [[code]](https://github.com/batra-mlp-lab/visdial)
 
 ## GuessWhat
