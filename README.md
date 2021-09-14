@@ -12,8 +12,14 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 # Image-based Multi-modal Dialog
 
 ## Visual Dialog
-### 2017
+
 [Visual Dialog](https://arxiv.org/abs/1611.08669), CVPR 2017, [[code]](https://github.com/batra-mlp-lab/visdial)
+
+[Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://arxiv.org/abs/1706.01554), NIPS 2017, [[code]](https://github.com/jiasenlu/visDial.pytorch)
+
+[Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning](https://arxiv.org/abs/1711.07613), CVPR 2018
+
+[DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), AAAI 2020, [[code]](https://github.com/phellonchen/DMRM)
 
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
