@@ -19,7 +19,47 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 [Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning](https://arxiv.org/abs/1711.07613), CVPR 2018
 
+[Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774), CVPR 2019
+
+[Reasoning Visual Dialogs with Structural and Partial Observations](https://arxiv.org/abs/1904.05548), CVPR, 2019, [[code]](https://github.com/zilongzheng/visdial-gnn)
+
+[Recursive Visual Attention in Visual Dialog](https://arxiv.org/abs/1812.02664), CVPR 2019, [[code]](https://github.com/yuleiniu/rva)
+
+[Dual Visual Attention Network for Visual Dialog](), IJCAI 2019
+
+[Making History Matter: History-Advantage Sequence Training for Visual Dialog](https://arxiv.org/abs/1902.09326), ICCV 2019
+
+[Granular Multimodal Attention Networks for Visual Dialog](https://arxiv.org/abs/1910.05728), ICCV Workshop 2019
+
+[Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog](https://arxiv.org/abs/1902.00579), ACL 2019
+
+[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368), EMNLP 20219, [[]code](https://github.com/gicheonkang/dan-visdial)
+
 [DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog](https://arxiv.org/abs/1912.08360), AAAI 2020, [[code]](https://github.com/phellonchen/DMRM)
+
+[Modality-Balanced Models for Visual Dialogue](https://arxiv.org/abs/2001.06354), AAAI 2020
+
+[DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue](https://arxiv.org/abs/1911.07251), AAAI 2020, [[code]](https://github.com/JXZe/DualVD)
+
+[Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496), CVPR 2020, [[code]](https://github.com/simpleshinobu/visdial-principles)
+
+[DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue](https://arxiv.org/abs/2007.03310), IJCAI 2020, [[code]](https://github.com/JXZe/DAM)
+
+[KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://arxiv.org/abs/2008.04858), ACM MM 2020
+
+[Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), ECCV 2020, [[code]](https://github.com/vmurahari3/visdial-bert)
+
+[Multi-View Attention Network for Visual Dialog](https://arxiv.org/abs/2004.14025), ACL 2020
+
+[History for Visual Dialog: Do we really need it?](https://aclanthology.org/2020.acl-main.728/), ACL 2020
+
+[VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020, [[code]](https://github.com/salesforce/VD-BERT)
+
+[GoG: Graph-over-Graph Network for Visual Dialog](https://aclanthology.org/2021.findings-acl.20/), ACL Findings 2021
+
+[Multimodal Incremental Transformer for Visual Dialogue Generation](https://aclanthology.org/2021.findings-acl.38/), ACL Findings 2021
+
+[Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), EMNLP Findings 2021
 
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
