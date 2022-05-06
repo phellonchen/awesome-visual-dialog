@@ -63,6 +63,8 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 25. [Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/abs/2109.06013), EMNLP Findings 2021
 
+26. [UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog](https://arxiv.org/abs/2205.00423), CVPR 2022
+
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
 
