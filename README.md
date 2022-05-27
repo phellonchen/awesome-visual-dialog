@@ -1,6 +1,6 @@
 # awesome-Visual Dialog
 Recent Advances in Visual Dialog
-Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2022/05/06.
+Maintained by Feilong Chen. Last update on 2022/05/06.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
 
