@@ -1,6 +1,6 @@
 # awesome-Visual Dialog
 Recent Advances in Visual Dialog
-Maintained by Feilong Chen. Last update on 2022/05/06.
+Maintained by Feilong Chen. Last update on 2022/08/19.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
 
@@ -68,6 +68,8 @@ Maintained by Feilong Chen. Last update on 2022/05/06.
 27. [Improving Cross-Modal Understanding in Visual Dialog via Contrastive Learning](https://arxiv.org/abs/2204.07302), ICASSP 2022
 
 28. [UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog](https://arxiv.org/abs/2205.00423), CVPR 2022
+
+29. [Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog](https://arxiv.org/abs/2205.00423), ACM MM 2022
 
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
